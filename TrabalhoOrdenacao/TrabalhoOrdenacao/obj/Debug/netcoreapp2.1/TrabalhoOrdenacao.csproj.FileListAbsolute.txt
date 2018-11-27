@@ -1,0 +1,11 @@
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\bin\Debug\netcoreapp2.1\TrabalhoOrdenacao.deps.json
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\bin\Debug\netcoreapp2.1\TrabalhoOrdenacao.runtimeconfig.json
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\bin\Debug\netcoreapp2.1\TrabalhoOrdenacao.runtimeconfig.dev.json
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\bin\Debug\netcoreapp2.1\TrabalhoOrdenacao.dll
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\bin\Debug\netcoreapp2.1\TrabalhoOrdenacao.pdb
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\obj\Debug\netcoreapp2.1\TrabalhoOrdenacao.csprojAssemblyReference.cache
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\obj\Debug\netcoreapp2.1\TrabalhoOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\obj\Debug\netcoreapp2.1\TrabalhoOrdenacao.AssemblyInfoInputs.cache
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\obj\Debug\netcoreapp2.1\TrabalhoOrdenacao.AssemblyInfo.cs
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\obj\Debug\netcoreapp2.1\TrabalhoOrdenacao.dll
+C:\Users\snake\Source\Repos\TrabalhoOrdenacao\TrabalhoOrdenacao\obj\Debug\netcoreapp2.1\TrabalhoOrdenacao.pdb
